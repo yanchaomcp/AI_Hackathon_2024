@@ -5,7 +5,7 @@
 MeWayWise is a travel recommendation tool designed to suggest the best travel modes for specific origin-destination pairs based on user preferences. The system integrates local data processing with AI models in LM Studio to deliver personalized travel recommendations efficiently.
 
 #### Repository Contents
-1. demo_basic.py
+1. `demo_basic.py`
 A lightweight prototype utilizing the LLaMA model for quick, energy-efficient recommendations. This version is ideal for resource-constrained environments.
 
 2. demo.py
