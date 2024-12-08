@@ -29,5 +29,5 @@ To run the tool, execute the following command:
   - what is the way from central pk to nyu Tandon?
   - what is the fastest way from Central Park to Eiffel Tower?
 
-##### Explore and see how the model responds!
+**Explore and see how the model responds!**
 
