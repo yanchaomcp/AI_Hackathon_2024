@@ -1,6 +1,7 @@
 ## AI_Hackathon_2024
 
 ## MeWayWise: a user-preference-based travel mode recommendation tool
+### author: Yanchao Li (yl9918@nyu.edu)
 
 `MeWayWise` is a travel recommendation tool designed to suggest the best travel modes for specific origin-destination pairs based on user preferences. The system integrates local data processing with AI models in LM Studio to deliver personalized travel recommendations efficiently.
 
