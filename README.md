@@ -1,4 +1,4 @@
-## On-device AI Builders Hackathon_2024
+## On-device AI Builders Hackathon (2024)
 
 ## MeWayWise: a user-preference-based travel mode recommendation tool
 ##### Author: Yanchao Li (yl9918@nyu.edu)
